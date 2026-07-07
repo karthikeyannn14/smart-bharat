@@ -1,0 +1,6 @@
+{
+  "name": "Smart Bharat",
+  "description": "An AI-powered civic companion for Indian citizens to explore government services, translate information, and report or track local issues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
